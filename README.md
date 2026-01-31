@@ -208,6 +208,11 @@
     </footer>
 
 
+</body>
+
+</html>
+
+
 
 CSS code starts here
 
@@ -589,6 +594,18 @@ CSS code starts here
 
 
 
-</body>
 
-</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
